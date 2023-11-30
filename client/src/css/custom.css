@@ -1,0 +1,19 @@
+  .video-tile:hover .hovered-dark{
+    background-color: rgb(117, 117, 117)!important;
+    color:white;
+  }
+
+  .video-active{
+    background:#f1f3fa;
+  }
+  .iconbg-dark-active{
+    background-color: rgb(136, 136, 136)!important;
+    color:white;
+  }
+  
+  #root{
+    position:relative;
+  }
+  .height-35vh{
+    height: 35vh !important;
+  }
